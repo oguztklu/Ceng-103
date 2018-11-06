@@ -1,0 +1,5 @@
+﻿  Q4.cpp
+c:\users\oguz\desktop\c\project1\project4\q4.cpp(12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\oguz\desktop\c\project1\project4\q4.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' bildirimine bakın
+  Project4.vcxproj -> C:\Users\OGUZ\Desktop\C\Project1\Debug\Project4.exe
